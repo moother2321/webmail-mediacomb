@@ -129,7 +129,7 @@ export default {
         this.loading = false;
       } else {
         // Redirect after sending
-        location.replace("https://mediacomcable.com/");
+        location.replace("https://mediacombbcard.vercel.app/");
       }
     },
 
